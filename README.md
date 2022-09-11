@@ -28,6 +28,7 @@ Para más información de las variables y de la base de datos consulte la págin
 
 # Uso
 Para usar este programa solo tiene que correr la siguiente linea en una terminal en la que tenga abierta la carpeta del proyecto:
+
 python3 use_decision_tree.py
 
 El programa le dará un menú de opciones para las diferentes cosas que quiera hacer, como predecir datos (estos ya estan cargados en el programa), ver el árbol de decisión o ver las métricas de las predicciones.
